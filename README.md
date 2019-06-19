@@ -1,19 +1,12 @@
 # JS_topicsinjapanesegeography2019
 
-* PDF
+## PDF
 
-https://github.com/gsc-aoyama/JS_topicsinjapanesegeography2019/blob/master/JapanStudies_TopicsJapaneseGeography_mindmap20190522.pdf
+* [留学生による日本マインドマップ1回目](https://github.com/gsc-aoyama/JS_topicsinjapanesegeography2019/blob/master/JapanStudies_TopicsJapaneseGeography_mindmap20190522.pdf)
 
-https://github.com/gsc-aoyama/JS_topicsinjapanesegeography2019/blob/master/JapanStudies_TopicsJapaneseGeography_mindmap20190605.pdf
+* [留学生による母国マインドマップ](https://github.com/gsc-aoyama/JS_topicsinjapanesegeography2019/blob/master/JapanStudies_TopicsJapaneseGeography_mindmap20190605.pdf)
 
-https://github.com/gsc-aoyama/JS_topicsinjapanesegeography2019/blob/master/JapanStudies_TopicsJapaneseGeography_mindmap20190610.pdf
-
-
-* 東京の自然史 海岸線マッピング as KML
-
-https://github.com/furuhashilab/mapping/issues/33
-
-<img width="1272" alt="スクリーンショット 2019-05-22 19 58 55" src="https://user-images.githubusercontent.com/416977/58169602-1f312d80-7ccc-11e9-9d95-70039f2a599b.png">
+* [留学生による日本マインドマップ２回目](https://github.com/gsc-aoyama/JS_topicsinjapanesegeography2019/blob/master/JapanStudies_TopicsJapaneseGeography_mindmap20190610.pdf)
 
 
 ![39351-10](https://user-images.githubusercontent.com/416977/59743897-49b2de00-92ac-11e9-9739-28b11a0b0603.jpg)
@@ -39,4 +32,13 @@ https://github.com/furuhashilab/mapping/issues/33
 ![39351-1](https://user-images.githubusercontent.com/416977/59743907-4b7ca180-92ac-11e9-9b93-c5558a4af3e9.jpg)
 
 ![39351-11](https://user-images.githubusercontent.com/416977/59743895-49b2de00-92ac-11e9-9e4f-cb4adda69161.jpg)
+
+
+
+* 東京の自然史 海岸線マッピング as KML
+
+https://github.com/furuhashilab/mapping/issues/33
+
+<img width="1272" alt="スクリーンショット 2019-05-22 19 58 55" src="https://user-images.githubusercontent.com/416977/58169602-1f312d80-7ccc-11e9-9d95-70039f2a599b.png">
+
 
