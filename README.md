@@ -6,6 +6,8 @@ https://github.com/gsc-aoyama/JS_topicsinjapanesegeography2019/blob/master/Japan
 
 https://github.com/gsc-aoyama/JS_topicsinjapanesegeography2019/blob/master/JapanStudies_TopicsJapaneseGeography_mindmap20190605.pdf
 
+https://github.com/gsc-aoyama/JS_topicsinjapanesegeography2019/blob/master/JapanStudies_TopicsJapaneseGeography_mindmap20190610.pdf
+
 
 * 東京の自然史 海岸線マッピング as KML
 
